@@ -1,0 +1,16 @@
+add this data in .env file
+
+MONGODB_URL = 
+PORT = 
+
+PASSWORD = 
+
+JWT_SECRET=
+
+NODE_ENV=development
+
+CLOUDINARY_CLOUD_NAME=
+
+CLOUDINARY_API_KEY=
+
+CLOUDINARY_API_SECRET=
